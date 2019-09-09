@@ -4,12 +4,7 @@
     "balance": 1.99,
     "age": 25,
     "name": "Blake Alexander",
-    "email": "blakealexander@quinex.com",
-    "Text": "Elit et quis dolor ex anim. Eu do magna consequat aliquip irure excepteur ut ullamco. Voluptate consectetur id cupidatat elit ut in velit fugiat minim. Deserunt amet id qui ex veniam pariatur esse esse enim. Aute aliquip pariatur voluptate sint ex ipsum ex ipsum magna proident officia cillum sint.\r\n",
-    "date": "2016-12-10T09:49:41 -01:00",
-    "dateFuture": "2019-05-23T07:38:03 -02:00",
-    "dateInterval": "2014-01-04T08:59:13 -01:00",
-    "select": "option1"
+    "email": "blakealexander@quinex.com"
   },
   {
     "_id": 1,

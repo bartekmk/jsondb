@@ -1,13 +1,11 @@
 [
   {
-    "_id": 0,
     "balance": 1.99,
     "age": 25,
     "name": "Blake Alexander",
     "email": "blakealexander@quinex.com"
   },
   {
-    "_id": 1,
     "balance": 9.33,
     "age": 40,
     "name": "Pacheco Good",
@@ -21,28 +19,24 @@
     "email": "popejoyner@quinex.com"
   },
   {
-    "_id": 3,
     "balance": 7.59,
     "age": 30,
     "name": "Swanson Henderson",
     "email": "swansonhenderson@quinex.com"
   },
   {
-    "_id": 4,
     "balance": 2.64,
     "age": 40,
     "name": "Colleen Farrell",
     "email": "colleenfarrell@quinex.com"
   },
   {
-    "_id": 5,
     "balance": 1.57,
     "age": 38,
     "name": "Marylou Hodge",
     "email": "marylouhodge@quinex.com"
   },
   {
-    "_id": 6,
     "balance": 1.16,
     "age": 40,
     "name": "Guadalupe Hopkins",
